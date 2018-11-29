@@ -7,7 +7,5 @@ The second script uses a bag of words approach to make a model between the wine 
 https://towardsdatascience.com/machine-learning-nlp-text-classification-using-scikit-learn-python-and-nltk-c52b92a7c73a 
 https://towardsdatascience.com/sentiment-analysis-with-python-part-1-5ce197074184
 
-
-
-
-
+data set
+https://www.kaggle.com/zynicide/wine-reviews
